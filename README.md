@@ -45,7 +45,7 @@ I engineered a deep neural network capable of parsing MFCC (Mel-frequency cepstr
 ---
 
 ### 📊 Performance Visualization
-![Loss Curve](https://placehold.co/800x400/EEE/31343C?font=montserrat&text=Training+Loss+vs+Validation+Accuracy)
+![Loss Curve](Performance.png)
 *Figure 1: Training convergence showing the reduction of phoneme error rate over 30 epochs.*
 
 ---
